@@ -34,3 +34,5 @@ All the queries were further validated using MySQL Workbench to ensure data accu
 - Which pizza sizes and categories contribute most to revenue?<br>
 - Who are the best and worst-selling pizzas?<br>
 - What are the weekly patterns in sales?
+## 🔗 Live Dashboard:
+[Click here to view the interactive Tableau Dashboard](https://public.tableau.com/app/profile/saptarshi.poddar/viz/PizzaSalesDashboard_17524145528060/HOME?publish=yes)
