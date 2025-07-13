@@ -19,8 +19,7 @@ All the queries were further validated using MySQL Workbench to ensure data accu
 KPI Banner: Quick overview of revenue, order volume, and pizza metrics. <br>
 Hourly Trend: Stacked bar chart showing when most pizzas are sold during the day.<br>
 Weekly Order Trend: Line chart to detect peak weeks and sales seasonality.<br>
-Sales by Category & Size:<br>
-Pie charts visualizing revenue by pizza category and size.<br>
+Sales by Category & Size:Pie charts visualizing revenue by pizza category and size.<br>
 
 ## Performance Charts:
 Funnel chart for total pizzas sold by category.<br>
