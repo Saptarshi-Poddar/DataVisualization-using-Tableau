@@ -17,20 +17,20 @@ Generated business KPIs using SQL queries:
 All the queries were further validated using MySQL Workbench to ensure data accuracy and cross-platform SQL compatibility.
 ## Key Visuals & Insights:
 
-KPI Cards: Revenue, Order Count, AOV, Pizzas Sold <br>
-Hourly Sales Trend: Stacked bar chart showing order volume by hour <br>
-Weekly Order Trend: Line chart showing sales across weeks <br>
+- KPI Cards: Revenue, Order Count, AOV, Pizzas Sold <br>
+- Hourly Sales Trend: Stacked bar chart showing order volume by hour <br>
+- Weekly Order Trend: Line chart showing sales across weeks <br>
 
-Pie Charts:<br>
+- Pie Charts:<br>
 % Sales by Pizza Category (Classic, Veggie, etc.)<br>
 % Sales by Pizza Size (L, M, XL)<br>
 
-Funnel Chart: Quantity sold by category<br>
+- Funnel Chart: Quantity sold by category<br>
 
-Bar Charts:Top 5 Pizzas by Revenue, Quantity, and Orders<br>
-Bottom 5 Pizzas by Revenue, Quantity, and Orders<br>
+- Bar Charts:Top 5 Pizzas by Revenue, Quantity, and Orders<br>
+- Bottom 5 Pizzas by Revenue, Quantity, and Orders<br>
 ## Business Questions Answered:
 - What time of day has the highest order volume?<br>
-Which pizza sizes and categories contribute most to revenue?<br>
-Who are the best and worst-selling pizzas?<br>
-What are the weekly patterns in sales?
+- Which pizza sizes and categories contribute most to revenue?<br>
+- Who are the best and worst-selling pizzas?<br>
+- What are the weekly patterns in sales?
