@@ -16,11 +16,19 @@ Generated business KPIs using SQL queries:
 ### Average Pizzas Per Order
 All the queries were further validated using MySQL Workbench to ensure data accuracy and cross-platform SQL compatibility.
 ## Key Visuals & Insights:
-KPI Banner: Quick overview of revenue, order volume, and pizza metrics. <br>
-Hourly Trend: Stacked bar chart showing when most pizzas are sold during the day.<br>
-Weekly Order Trend: Line chart to detect peak weeks and sales seasonality.<br>
-Sales by Category & Size:Pie charts visualizing revenue by pizza category and size.<br>
 
-## Performance Charts:
-Funnel chart for total pizzas sold by category.<br>
-Bar charts for top/bottom 5 pizzas by revenue, quantity, and total orders.
+KPI Cards: Revenue, Order Count, AOV, Pizzas Sold <br>
+Hourly Sales Trend: Stacked bar chart showing order volume by hour <br>
+Weekly Order Trend: Line chart showing sales across weeks <br>
+
+Pie Charts:<br>
+% Sales by Pizza Category (Classic, Veggie, etc.)<br>
+% Sales by Pizza Size (L, M, XL)<br>
+
+Funnel Chart: Quantity sold by category<br>
+
+Bar Charts:<br>
+
+Top 5 Pizzas by Revenue, Quantity, and Orders<br>
+
+Bottom 5 Pizzas by Revenue, Quantity, and Orders<br>
