@@ -5,13 +5,13 @@ This project is a comprehensive end-to-end data analytics case study focused on 
 MySQL Workbench – Additionally used to cross-check and verify all SQL queries and outputs independently during dashboard development.
 Tableau – For creating the final interactive and visually compelling dashboard.
 MS Excel  – Used for initial CSV file inspection and cleanup.
-##Part 1: Data Preparation using SQL
+## Part 1: Data Preparation using SQL
 Loaded raw pizza sales CSV data into MS SQL Workbench.
 Cleaned and transformed data to suit analysis needs.
 Generated business KPIs using SQL queries:
-Total Revenue
-Average Order Value
-Total Pizzas Sold
-Total Orders
-Average Pizzas Per Order
+### Total Revenue
+### Average Order Value
+### Total Pizzas Sold
+### Total Orders
+### Average Pizzas Per Order
 All the queries were further validated using MySQL Workbench to ensure data accuracy and cross-platform SQL compatibility.
