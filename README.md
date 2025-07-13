@@ -16,7 +16,7 @@ Generated business KPIs using SQL queries:
 ### Average Pizzas Per Order
 All the queries were further validated using MySQL Workbench to ensure data accuracy and cross-platform SQL compatibility.
 ## Key Visuals & Insights:
-### KPI Banner: Quick overview of revenue, order volume, and pizza metrics.
+KPI Banner: Quick overview of revenue, order volume, and pizza metrics. <br>
 ### Hourly Trend: Stacked bar chart showing when most pizzas are sold during the day.
 ### Weekly Order Trend: Line chart to detect peak weeks and sales seasonality.
 ### Sales by Category & Size:
