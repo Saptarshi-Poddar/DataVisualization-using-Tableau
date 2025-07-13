@@ -29,3 +29,8 @@ Funnel Chart: Quantity sold by category<br>
 
 Bar Charts:Top 5 Pizzas by Revenue, Quantity, and Orders<br>
 Bottom 5 Pizzas by Revenue, Quantity, and Orders<br>
+## Business Questions Answered:
+What time of day has the highest order volume?<br>
+Which pizza sizes and categories contribute most to revenue?<br>
+Who are the best and worst-selling pizzas?<br>
+What are the weekly patterns in sales?
