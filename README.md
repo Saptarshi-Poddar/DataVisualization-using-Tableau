@@ -27,8 +27,5 @@ Pie Charts:<br>
 
 Funnel Chart: Quantity sold by category<br>
 
-Bar Charts:<br>
-
-Top 5 Pizzas by Revenue, Quantity, and Orders<br>
-
+Bar Charts:Top 5 Pizzas by Revenue, Quantity, and Orders<br>
 Bottom 5 Pizzas by Revenue, Quantity, and Orders<br>
