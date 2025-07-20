@@ -36,3 +36,5 @@ All the queries were further validated using MySQL Workbench to ensure data accu
 - What are the weekly patterns in sales?
 ## 🔗 Live Dashboard:
 [Click here to view the interactive Tableau Dashboard](https://public.tableau.com/app/profile/saptarshi.poddar/viz/PizzaSalesDashboard_17524145528060/HOME?publish=yes)
+## Screenshot :
+Dashboard Preview()
