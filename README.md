@@ -38,3 +38,4 @@ All the queries were further validated using MySQL Workbench to ensure data accu
 [Click here to view the interactive Tableau Dashboard](https://public.tableau.com/app/profile/saptarshi.poddar/viz/PizzaSalesDashboard_17524145528060/HOME?publish=yes)
 ## Screenshot :
 Dashboard Preview ![Dashboard Preview](https://github.com/Saptarshi-Poddar/DataVisualization-using-Tableau/blob/main/PIZZA%20SALES%20DASHBOARD%20(1).png)
+Dashboard Preview ![Dashboard Preview](https://github.com/Saptarshi-Poddar/DataVisualization-using-Tableau/blob/main/PIZZA%20SALES%20DASHBOARD%20(2).png)
